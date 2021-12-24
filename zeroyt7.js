@@ -378,7 +378,14 @@ switch (command) {
 				latensi = speed() - timestamp	
               menunya = 
 `Hi ${pushname}, ${tampilUcapan}✨
-Saya ${botname} Yg Siap Membantu Anda Dalam Kinerja Whatsapp Agar Mempermudah Seperti Membuat Sticker , Dll
+Saya ${botname}
+RULES GROUP 
+ 
+👉 MEMBER YANG KELUAR KEMUDIAN MASUK KEMBALI DAN KELUAR LAGI MAKA AKAN KELUAR PERMANENT (KECUALI PENSI/VAKUM) 
+👉 NO BAPER 
+👉 NO DRAMA 
+👉 JANGAN LUPA GUNAKAN JASA ADMIN SETEMPAT ( W4RIA STORE ) 
+👉 HATI TERHADAP CLONE , WA W4RIA HANYA 1 INI (089528618058)
 
 ╭─❒ 「 Bot Info 」 ❒
 ├ Nama Bot : ${botname}
@@ -887,17 +894,17 @@ reply('Masalah Telah Di Laporkan Ke Owner BOT, Mohon Tunggu Untuk Proses Perbaik
 break
 case 'youtube':
 teks =
-`Nih Youtube Owner Ku Jangan Lupa Di Subscribe Ya https://www.youtube.com/channel/UCjX0Qvy1y3j8L0GPeH4OoEw`
+`Gua bukan Youtuber.!`
 zeroyt7.sendMessage(from, teks, text, {quoted: ftrol})
 break
 case 'instagram':
 teks =
-`Nih Instagram Owner Ku Jangan Lupa Di Follow Ya https://instagram.com/Drak_ipul123`
+`Udah Kenon Pantek..!`
 zeroyt7.sendMessage(from, teks, text, {quoted: ftrol})
 break
 case 'tiktok':
 teks =
-`Nih Tiktok Owner Ku Jangan Lupa Di Follow Ya https://tiktok.com/Raraharsita2`
+`Lu pikir gua cewek main tiktok.!`
 zeroyt7.sendMessage(from, teks, text, {quoted: ftrol})
 break
 case 'sourcecode':
@@ -906,8 +913,8 @@ case 'sc':
 teks = 
 `*Bot Ini Menggunakan Sourcecode*
 ╭─────────────────────
-├ Sc Ori = https://github.com/Zero-YT7/Base-ZeroYT7
-├ Sc Full Fitur = https://youtube.com/ZeroYT7
+├ Sc Ori = https://github.com/saipulanuar/bot-zero
+├ Sc Full Fitur = https://www.youtube.com/channel/UCjX0Qvy1y3j8L0GPeH4OoEw
 ├─────────────────────
 ├ Creator Base = Zero YT7
 ├ Creator Sc = Zero YT7
